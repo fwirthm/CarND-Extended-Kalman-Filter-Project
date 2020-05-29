@@ -45,6 +45,21 @@ Here is the main protocol that main.cpp uses for uWebSocketIO in communicating w
 
 ---
 
+## Results
+
+The results are shown below as image and in Udacity_EKF_Demo.mov as Video.
+
+<figure>
+ <img src="./Udacity_EKF_Result.png" width="380" alt="EKF Result" />
+ <figcaption>
+ <p></p> 
+ <p style="text-align: center;"> EKF Result</p> 
+ </figcaption>
+</figure>
+ <p></p>
+
+
+
 ## Other Important Dependencies
 
 * cmake >= 3.5
@@ -75,10 +90,6 @@ using the following settings:
 * indent using spaces
 * set tab width to 2 spaces (keeps the matrices in source code aligned)
 
-## Code Style
-
-Please (do your best to) stick to [Google's C++ style guide](https://google.github.io/styleguide/cppguide.html).
-
 ## Generating Additional Data
 
 This is optional!
@@ -86,25 +97,6 @@ This is optional!
 If you'd like to generate your own radar and lidar data, see the
 [utilities repo](https://github.com/udacity/CarND-Mercedes-SF-Utilities) for
 Matlab scripts that can generate additional data.
-
-## Project Instructions and Rubric
-
-Note: regardless of the changes you make, your project must be buildable using
-cmake and make!
-
-More information is only accessible by people who are already enrolled in Term 2 (three-term version) or Term 1 (two-term version)
-of CarND. If you are enrolled, see the Project Resources page in the classroom
-for instructions and the project rubric.
-
-## Hints and Tips!
-
-* You don't have to follow this directory structure, but if you do, your work
-  will span all of the .cpp files here. Keep an eye out for TODOs.
-* Students have reported rapid expansion of log files when using the term 2 simulator.  This appears to be associated with not being connected to uWebSockets.  If this does occur,  please make sure you are conneted to uWebSockets. The following workaround may also be effective at preventing large log files.
-
-    + create an empty log file
-    + remove write permissions so that the simulator can't write to log
- * Please note that the ```Eigen``` library does not initialize ```VectorXd``` or ```MatrixXd``` objects with zeros upon creation.
 
 ## Call for IDE Profiles Pull Requests
 
