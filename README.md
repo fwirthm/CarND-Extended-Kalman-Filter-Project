@@ -50,7 +50,7 @@ Here is the main protocol that main.cpp uses for uWebSocketIO in communicating w
 The results are shown below as image and in Udacity_EKF_Demo.mov as Video.
 
 <figure>
- <img src="./Udacity_EKF_Result.png" width="380" alt="EKF Result" />
+ <img src="./Udacity_EKF_Result.png" width="800" alt="EKF Result" />
  <figcaption>
  <p></p> 
  <p style="text-align: center;"> EKF Result</p> 
