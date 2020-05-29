@@ -1,4 +1,4 @@
-# Extended Kalman Filter Project Starter Code
+# Extended Kalman Filter Project
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
 This project belongs to my work towards Udacitys 'Self-Driving Car Engineer' Nanodegree. The general project goal is to utilize a kalman filter to estimate the state of a moving object of interest with noisy lidar and radar measurements. A more detailed description of the project goals can be found below.
@@ -128,7 +128,4 @@ and how to install it.
 
 Regardless of the IDE used, every submitted project must
 still be compilable with cmake and make.
-
-## How to write a README
-A well written README file can enhance your project and portfolio.  Develop your abilities to create professional README files by completing [this free course](https://www.udacity.com/course/writing-readmes--ud777).
 
